@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C72B771628257F7878B195FE850D9DD7",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Notification_Buyer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
